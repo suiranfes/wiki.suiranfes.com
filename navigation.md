@@ -1,5 +1,5 @@
 [gimmick:theme (inverse: true)](cosmo)
-[**第65回翠巒祭実行委員会Wiki**](index.md)
+# 第65回翠巒祭実行委員会Wiki
 [***第64回の反省***](第64回の反省.md)
 [W:ホームページ](ホームページ.md)
 [W:広告企画案](広告企画案.md)
