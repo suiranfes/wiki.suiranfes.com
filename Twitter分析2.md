@@ -45,4 +45,8 @@
 
 [gimmick:chart ({dataColumns: ['Normal','Retweets'], labelColumn: "Date", chartType: 'Bar', width: '660px', height: '450px'})]()
 
+■Normal / ■Retweets
+
+----
+
 [1](#!Twitter分析.md) - [2](#!Twitter分析2.md) - [3](#!Twitter分析3.md)

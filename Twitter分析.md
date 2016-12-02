@@ -48,4 +48,6 @@
 
 [gimmick:chart ({dataColumns: ['Normal'], labelColumn: "Hour", chartType: 'Line', width: '660px', height: '500px'})]()
 
+----
+
 [1](#!Twitter分析.md) - [2](#!Twitter分析2.md) - [3](#!Twitter分析3.md)
