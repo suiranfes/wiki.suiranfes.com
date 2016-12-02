@@ -41,4 +41,4 @@
 |22|22時|152|
 |23|23時|82|
 
-[gimmick:chart ({dataColumns: ["Normal"], labelColumn: "Hour", chartType: "Line", width: "660px", height: "300px"})]()
+[gimmick:chart ({dataColumns: ['Normal'], labelColumn: "Hour", chartType: 'Line', width: '660px', height: '300px'})]()
