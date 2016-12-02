@@ -43,6 +43,6 @@
 |20|6月21日|1|2|0|2|
 
 
-[gimmick:chart ({dataColumns: ['Normal','Reply','Retweets'], labelColumn: "Date", chartType: 'Bar', width: '660px', height: '450px'})]()
+[gimmick:chart ({dataColumns: ['Normal','Retweets'], labelColumn: "Date", chartType: 'Bar', width: '660px', height: '450px'})]()
 
 [1](#!Twitter分析.md) - [2](#!Twitter分析2.md) - [3](#!Twitter分析3.md)
