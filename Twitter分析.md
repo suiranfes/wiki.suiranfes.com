@@ -16,7 +16,6 @@
 
 |#|Hour|Normal|
 |--|----|----|
-|0|0時|32|
 |1|1時|12|
 |2|2時|2|
 |3|3時|1|
@@ -40,5 +39,6 @@
 |21|21時|205|
 |22|22時|152|
 |23|23時|82|
+|24|24時|32|
 
 [gimmick:chart ({dataColumns: ['Normal'], labelColumn: "Hour", chartType: 'Line', width: '660px', height: '300px'})]()
