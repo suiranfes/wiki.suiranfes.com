@@ -14,7 +14,7 @@
 
 高校生がどの時間帯にどれだけ浮上しているのか。
 
-|#|時間帯|Normal
+|#|Hour|Normal
 |--|----|----
 |0|0時|32
 |1|1時|12
@@ -41,4 +41,4 @@
 |22|22時|152
 |23|23時|82
 
-[gimmick:chart ({dataColumns: ['Normal'], labelColumn: "時間帯", chartType: 'Bar', width: '660px', height: '300px'})]()
+[gimmick:chart ({dataColumns: ["Normal"], labelColumn: "Hour", chartType: "Bar", width: "660px", height: "300px"})]()
